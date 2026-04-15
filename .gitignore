@@ -1,0 +1,7 @@
+.venv/
+nul
+credentials/
+*.json
+*.log
+.claude/
+.venv/
